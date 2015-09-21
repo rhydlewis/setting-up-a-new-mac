@@ -22,6 +22,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 * BracketHighlighter
 * HTML-CSS-JS Prettify
 * MarkdownEditing
+* Pretty JSON
 
 4) Update preferences - **TODO**
 5) Update sublime markdown editing color scheme - **TODO**
