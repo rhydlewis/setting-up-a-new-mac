@@ -51,12 +51,20 @@ Install Package Control
 
 Install Packages
 
-* GitGutter
-* SideBarEnhancements
+* 1337 Color Scheme
 * BracketHighlighter
-* HTML-CSS-JS Prettify
-* MarkdownEditing
+* Emmet
+* FileDiffs
+* Git
+* GitGutter
+* HTML-CS-JS Prettify
+* Indent XML
+* Package Control
 * Pretty JSON
+* PyV8
+* SqlBeautifier
+* StringEncode
+* WordHighlight
 
 Install View in Marked as build option (https://github.com/kotfu/marked-bonus-pack)
 

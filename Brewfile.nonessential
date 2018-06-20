@@ -1,0 +1,39 @@
+cask_args appdir: '/Applications'
+
+tap 'caskroom/cask'
+tap 'caskroom/fonts'
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+tap 'vitorgalvao/tiny-scripts'
+
+# Tools
+brew 'node'
+brew 'npm'
+
+# Non-MAS apps
+cask 'dash'
+cask 'google-chrome'
+cask 'marked'
+cask 'sonos'
+cask 'spotify'
+cask 'vlc'
+
+# quicklook plugins (https://github.com/sindresorhus/quick-look-plugins)
+cask 'qlcolorcode'
+cask 'qlimagesize'
+cask 'qlmarkdown'
+cask 'qlstephen'
+cask 'quicklook-csv'
+cask 'quicklook-json'
+cask 'betterzipql'
+cask 'suspicious-package'
+
+# fonts
+cask 'font-source-sans-pro'
+cask 'font-source-code-pro'
+cask 'font-montserrat'
+cask 'font-lato'
+
+
+brew 'bash-completion'
+tap 'homebrew/completions'
