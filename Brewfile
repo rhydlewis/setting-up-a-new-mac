@@ -16,6 +16,12 @@ brew 'python'
 brew 'rbenv'
 brew 'youtube-dl'
 brew 'duti'
+brew 'ack'
+brew 'fd'
+brew 'ripgrep'
+brew 'thefuck'
+brew 'unrar'
+brew 'p7zip'
 
 # Non-MAS apps
 cask '1password'
