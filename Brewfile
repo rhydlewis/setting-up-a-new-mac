@@ -42,6 +42,8 @@ brew 'python'
 brew 'python@2', link: false
 brew 'rbenv'
 brew 'ripgrep'
+brew 'sd'
+brew 'starship'
 brew 'telnet'
 brew 'terraform@0.11'
 brew 'thefuck'
