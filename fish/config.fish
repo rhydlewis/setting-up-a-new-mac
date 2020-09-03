@@ -30,3 +30,4 @@ source /Users/rhyd.lewis/Library/Preferences/org.dystroy.broot/launcher/fish/br
 source ~/.asdf/asdf.fish
 thefuck --alias | source
 zoxide init fish | source
+starship init fish | source
