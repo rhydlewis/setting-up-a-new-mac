@@ -43,3 +43,14 @@ Installing Sublime Text 3 and install Package Control:
 
 `duti -s com.sublimetext.3 .txt all`<br/>
 `duti -s com.sublimetext.3 .md all`
+
+* Show macOS app switcher for all monitors
+
+```
+defaults write com.apple.Dock appswitcher-all-displays -bool true
+killall Dock
+```
+
+see https://gist.github.com/jthodge/c4ba15a78fb29671dfa072fe279355f0
+defaults write com.apple.Dock appswitcher-all-displays -bool truekillall Dock
+
