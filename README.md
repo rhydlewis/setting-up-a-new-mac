@@ -52,5 +52,4 @@ killall Dock
 ```
 
 see https://gist.github.com/jthodge/c4ba15a78fb29671dfa072fe279355f0
-defaults write com.apple.Dock appswitcher-all-displays -bool truekillall Dock
 
